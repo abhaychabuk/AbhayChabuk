@@ -8,30 +8,69 @@ I am a Computer Engineering fresher with a strong interest in cloud computing, D
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chabukabhay@gmail.com](mailto:chabukabhay@gmail.com)
-* 🚀  I'm currently working on [ResuMate: A Placement Assistant System](http://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System.git)
-* 🧠  I'm currently learning Currently learning and implementing cloud and DevOps concepts through real projects
+* 🚀  I'm currently working on [ResuMate: A Placement Assistant System](https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System)
+* 🧠  I'm currently learning and implementing cloud and DevOps concepts through real projects
+
+---
+
+### 🛠 Skills
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" /></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" /></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" /></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" /></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" /></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" /></a>
+<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" /></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AbhayChabuk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/abhaychabuk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+### 🌐 Socials
 
-<b>My GitHub Stats</b>
+<p align="left">
+<a href="https://github.com/AbhayChabuk"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
+<a href="https://www.linkedin.com/in/abhaychabuk"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
+</p>
 
-<a href="http://www.github.com/AbhayChabuk"><img src="https://github-readme-stats.vercel.app/api?username=AbhayChabuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbhayChabuk's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/AbhayChabuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayChabuk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📊 GitHub Stats
 
-<a href="https://github.com/AbhayChabuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayChabuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbhayChabuk&show_icons=true&count_private=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true" />
+</p>
 
-<b>Top Repositories</b>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayChabuk&theme=dark&hide_border=true" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/AbhayChabuk/https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AbhayChabuk/https://github.com/AbhayChabuk/OMNICODE.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=https://github.com/AbhayChabuk/OMNICODE.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayChabuk&langs_count=8&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true&custom_title=Top%20Languages" />
+</p>
 
-<br /><br /><br /><br /><br />
+---
 
-<div width="100%" align="center"><a href="https://github.com/AbhayChabuk/https://github.com/AbhayChabuk/TicTacToe-Beatable-AI.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=https://github.com/AbhayChabuk/TicTacToe-Beatable-AI.git&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### ⭐ Top Repositories
+
+<p align="center">
+<a href="https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=ResuMate-A-Placement-Assistant-System&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" />
+</a>
+
+<a href="https://github.com/AbhayChabuk/OMNICODE">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=OMNICODE&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" />
+</a>
+
+<a href="https://github.com/AbhayChabuk/TicTacToe-Beatable-AI">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhayChabuk&repo=TicTacToe-Beatable-AI&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true" />
+</a>
+</p>
