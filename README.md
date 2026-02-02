@@ -15,11 +15,11 @@
 ---
 
 ### 🚀 Quick Bio
-I am a Computer Engineering student focused on building scalable infrastructure and automating deployments. Currently, I'm deep-diving into **AWS Solutions Architect** concepts and perfecting my CI/CD pipelines.
+I am a Computer Engineering student focused on building scalable infrastructure and automating deployments. Currently, I'm deep-diving into **AWS Solutions Architect** concepts.
 
-- 🔭 **Current Focus:** Building [ResuMate](https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System.git), an AI-powered Placement Assistant.
+- 🔭 **Current Focus:** Building **[ResuMate](https://github.com/AbhayChabuk/ResuMate-A-Placement-Assistant-System.git)**, an AI-powered Placement Assistant.
 - ☁️ **Recent Milestone:** Deployed **Wallet Watcher** (Expense Tracker) using AWS S3 and CloudFront.
-- 🎮 **Fun Project:** Created and deployed a **Tic-Tac-Toe** game using Flask, Nginx, and Gunicorn on Amazon EC2.
+- 🎮 **DevOps in Action:** Deployed a **Tic-Tac-Toe** game using Flask, Nginx, and Gunicorn on Amazon EC2.
 
 ---
 
@@ -28,8 +28,8 @@ I am a Computer Engineering student focused on building scalable infrastructure 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
-| **Backend/Web** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql) |
+| **Backend/Web** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) |
 
 ---
 
